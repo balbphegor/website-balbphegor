@@ -10,14 +10,14 @@ const Icon = ({ title, createPanel, icon }) => {
       }
       className="icon"
     >
-      <a className="icon-anchor" href="/#">
+      <div className="icon-anchor" href="/#">
         <img
           className="icon-img"
           src={require(`./assets/icon/${icon}`)}
           alt="123"
         />
         <span className="icon-name">{title}</span>
-      </a>
+      </div>
     </div>
   );
 };
