@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/website-balbphegor/static/css/main.87282c0c.css",
+    "main.js": "/website-balbphegor/static/js/main.e2285504.js",
+    "static/media/xp.webp": "/website-balbphegor/static/media/xp.459e57da5a545f023a54.webp",
+    "static/media/circus.jpeg": "/website-balbphegor/static/media/circus.9c9ca64eba1a33720e99.jpeg",
+    "static/media/2048.png": "/website-balbphegor/static/media/2048.dd8482b4af5370b4fb25.png",
+    "static/media/wordle.png": "/website-balbphegor/static/media/wordle.b17c4ff24a204e76a0c8.png",
+    "static/media/linkedin.jpeg": "/website-balbphegor/static/media/linkedin.f1a535ba1d9c62f0e742.jpeg",
+    "index.html": "/website-balbphegor/index.html",
+    "main.87282c0c.css.map": "/website-balbphegor/static/css/main.87282c0c.css.map",
+    "main.e2285504.js.map": "/website-balbphegor/static/js/main.e2285504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87282c0c.css",
+    "static/js/main.e2285504.js"
+  ]
+}
