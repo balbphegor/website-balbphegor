@@ -97,8 +97,5 @@ export const text_entries = [
     "I am a junior web developer working with HTML, CSS, Javascript with React. When the occasion arises I use Bootstrap, MongoDB and MySQL/SQLite3. I have also been writing Python (2) since 2015, Java and C since 2018. I know my way around the block!" +
     "\r\n" +
     "\r\n" +
-    "My favorite beers are Michelob Ultra and Rickard's Red, aquired tastes from drinking at the bar after a nice comfy round of golf. Check back later for my blog where I will write about my thoughts not just limited to beer!" +
-    "\r\n" +
-    "\r\n" +
     "Keep it simple! The key to success is simply showing up everyday!",
 ];
